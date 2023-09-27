@@ -1,0 +1,1 @@
+This is a repository I created for the optional vagrant project in ALX SE foundations. I initialized the repo in an Ubuntu 20.04 instance using vagrant and virtual box
